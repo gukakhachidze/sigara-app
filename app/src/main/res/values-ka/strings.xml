@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">სიგარა</string>
+    <string name="scan_hint">მიუშვირე კამერა ნომერს</string>
+    <string name="status_searching">ვეძებ ტელეფონის ნომერს…</string>
+    <string name="status_found">ნომერი: %1$s</string>
+    <string name="rescan">ხელახლა სკანირება</string>
+    <string name="torch">ფანარი</string>
+    <string name="permission_needed">საჭიროა კამერაზე წვდომა</string>
+    <string name="permission_grant">ნებართვის მიცემა</string>
+    <string name="camera_error">კამერის გაშვება ვერ მოხერხდა</string>
+    <string name="no_dialer">სატელეფონო აპლიკაცია ვერ მოიძებნა</string>
+    <string name="logo_desc">სიგარას ლოგო</string>
+</resources>
